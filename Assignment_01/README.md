@@ -1,2 +1,2 @@
 ## Resume
-![Hari Krishna E](headspot.jpeg)
+![Hari Krishna E](headshot.jpeg)
