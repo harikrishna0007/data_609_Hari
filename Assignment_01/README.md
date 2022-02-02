@@ -12,16 +12,16 @@ Experienced Full Stack Engineer with a demonstrated history of working in the in
 * Bachelors in Electronics engineering from Hindustan university, Chennai. **2015-2019**
 * Persuing Masters degree at UMBC In data Science. **2021-2023**
 ## Skills
-* C Programming Language
-* Python Programming Language
-* HTML
-* JavaScript
-* Node Js
-* React Js
-* Matlab
-* AWS
-* GCP
-* SQL
+1. C Programming Language
+2. Python Programming Language
+3. HTML
+4. JavaScript
+5. Node Js
+6. React Js
+7. Matlab
+8. AWS
+9. GCP
+10. SQL
 ## Work Experience
 * Worked as a web Developer at **guvi geeks**
 * Worked as a Data analyst at **innive Inc**
@@ -38,4 +38,7 @@ Experienced Full Stack Engineer with a demonstrated history of working in the in
 * University Bandminton player
 * Participated at **international teakowndo Championship** held at kolkata
 
-
+## Intrests
+- Surfing about new technologies
+- Photography
+- Travelling 
