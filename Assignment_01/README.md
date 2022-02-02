@@ -1,2 +1,2 @@
 ## Resume
-![Hari Krishna E](headshot.jpeg =100*20)
+![Hari Krishna E](headshot.jpeg|width=40px)
